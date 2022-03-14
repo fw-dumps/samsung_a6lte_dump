@@ -1,0 +1,3 @@
+2
+GlobalGoals.apk
+SamsungPayStub.apk

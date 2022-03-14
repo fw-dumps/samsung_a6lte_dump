@@ -1,0 +1,5 @@
+ro.omc.build.version=A600GODM9CUC3
+ro.omc.build.id=39034346
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE
